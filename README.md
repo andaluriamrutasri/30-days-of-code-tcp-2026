@@ -1,2 +1,5 @@
-# 30-days-of-code-tcp-2026
-30 Days of Code Challenge by Team TCP
+Name: Andaluri Amruta Sri  
+Branch: CSE  
+Roll No: 25115016  
+
+## 30 Days of Code Challenge - Team TCP
