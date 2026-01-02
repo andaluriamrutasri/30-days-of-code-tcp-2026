@@ -6,6 +6,7 @@ Roll No: 25115016
 #Day 1 - Portfolio
 ##Profile
 ![Profile](profile.jpeg)
+
 ##Screenshot of solution
 ![Screenshot](code_day1.png)
 #Day 2 - Portfolio
