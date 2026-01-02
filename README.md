@@ -8,4 +8,6 @@ Roll No: 25115016
 ![Profile](profile.jpeg)
 ##Screenshot of solution
 ![Screenshot](code_day1.png)
+#Day 2 - Portfolio
+![Screenshot](code_day2.png)
 
