@@ -9,6 +9,10 @@ Roll No: 25115016
 
 ##Screenshot of solution
 ![Screenshot](code_day1.png)
+![Screenshot](code_dayy1.png)
 #Day 2 - Portfolio
 ![Screenshot](code_day2.png)
+#Day 3- Portfolio
+![screenshot](code_day3.png)
+
 
